@@ -666,7 +666,7 @@
   }
 
   #es-sodastream.es-sodastream .es-dis__text {
-    margin-top: -150px;
+    margin-top: -250px;
   }
   #es-sodastream.es-sodastream .es-efficiency__title {
     font-size: 35px;
@@ -820,7 +820,6 @@
   }
   #es-sodastream.es-sodastream .es-kv__contentText {
     margin-left: 20px;
-    margin-top: 130px;
   }
   #es-sodastream.es-sodastream .es-kv__bg {
     display: none;
@@ -830,7 +829,7 @@
     font-family: 'Bold';
     font-size: 50px;
     line-height: 1.2;
-    margin-bottom: 150px;
+    margin-bottom: 320px;
   }
   #es-sodastream.es-sodastream .es-kv__subtitle {
     text-transform: uppercase;
